@@ -14,7 +14,19 @@ Supporting resources for much of the talk's content, including personal favorite
 * [Hunting with MITRE ATT&CK](https://medium.com/mitre-attack/getting-started-with-attack-cti-4eb205be4b2f)
 * [Hunting for Post-Exploitation Stage Attacks with Elastic Stack and the MITRE ATT&CK Framework](https://www.youtube.com/watch?v=PdCQChYrxXg)
 
-Threat Profiling
+## Sourcing TTP-Focused Intelligence
+Some examples:
+
+* [MITRE ATT&CK website/database](https://attack.mitre.org/)
+![mitre](https://raw.githubusercontent.com/tropChaud/talks/main/2022_05_GRIMMCon/images/mitre.png)
+* [Thai CERT Threat Group Cards: A Threat Actor Encyclopedia](https://apt.etda.or.th/cgi-bin/aptsearch.cgi)
+![mitre](https://raw.githubusercontent.com/tropChaud/talks/main/2022_05_GRIMMCon/images/thai_cert.png)
+* [CISA Alerts](https://www.cisa.gov/uscert/ncas/alerts)
+![mitre](https://raw.githubusercontent.com/tropChaud/talks/main/2022_05_GRIMMCon/images/cisa.png)
+* [Florian Roth (@cyb3rops) Custom Search Engine](https://cse.google.com/cse?cx=003248445720253387346:turlh5vi4xc)
+![mitre](https://raw.githubusercontent.com/tropChaud/talks/main/2022_05_GRIMMCon/images/custom_search_engine.png)
+
+## Threat Profiling
 * [Using Threat Intelligence to Focus ATT&CK Activities](https://www.youtube.com/watch?v=V--wxuSEMD0)
 * [A Practical Approach to Prioritizing Defenses](https://www.youtube.com/watch?v=b0ShMaKDidU)
 
