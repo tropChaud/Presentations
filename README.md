@@ -1,7 +1,7 @@
 # Presentations
 
 ### 2021
-
+* April 6: Recorded Future User Network (RFUN) User Group - [Disrupt Adversaries with Recorded Future and MITRE ATT&CK](https://go.recordedfuture.com/recordings/202010406)
 
 ### 2022
 * March 29: MITRE ATT&CKcon 3.0 - [Prioritizing Detection Implementation with Intelligence and ATT&CK](https://github.com/tropChaud/Presentations/tree/main/2022_03_ATT%26CKcon)
