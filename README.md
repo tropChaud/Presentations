@@ -10,4 +10,4 @@
 * June 28: FIRSTCON22 - [Prioritizing Detection Implementation With Intelligence and ATT&CK](https://github.com/tropChaud/Presentations/tree/main/2022_06_FIRSTCON)
 
 ### 2023
-* April 30: BSidesCharm Workshop - [Building & Validating Detections with Adversary Intelligence] (https://github.com/tropChaud/Presentations/tree/main/2023_04_BSidesCharm)
+* April 30: BSidesCharm Workshop - [Building & Validating Detections with Adversary Intelligence](https://github.com/tropChaud/Presentations/tree/main/2023_04_BSidesCharm)
