@@ -11,3 +11,4 @@
 
 ### 2023
 * April 30: BSidesCharm Workshop - [Building & Validating Detections with Adversary Intelligence](https://github.com/tropChaud/Presentations/tree/main/2023_04_BSidesCharm)
+* May 12: SLEUTHCON - [Look at this Graph: Prioritizing Initial Access Threats & TTPs via Link Analysis](https://github.com/tropChaud/Presentations/tree/main/2023_05_SLEUTHCON)
